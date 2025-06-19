@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://handover-beeecmfxarh2h8be.canadacentral-01.azurewebsites.net'),
 
     /*
     |--------------------------------------------------------------------------
